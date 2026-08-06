@@ -1,12 +1,6 @@
 # Snn - The ultimate AI Framework!
 An all-in-one AI development suite that simplifies, accelerates, and secures AI application development at scale.
 
-## Team:
-- Yakshit Chhipa
-- Abhit 
-- Sheezy
-- Piyush
-
 ## 🚀 Features
 
 ### ⚡ High-Performance C++ Core
@@ -106,5 +100,3 @@ An all-in-one AI development suite that simplifies, accelerates, and secures AI 
 
 ## 📜 License
 MIT License – Free to use and modify.
-
-🔗 **Stay Updated:** Follow us on GitHub for the latest releases and updates!
